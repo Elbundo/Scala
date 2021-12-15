@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/home/elbundo/yaroslav/programming/university/IT/Scala/lab3/src/Adts.scala:65:29: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: scala.util.Try[Int][0m
+[0m[[0m[31merror[0m] [0m[0m    case Success(a) => print("Good!\n");[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/elbundo/yaroslav/programming/university/IT/Scala/lab3/src/Adts.scala:66:33: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: scala.util.Try[Int][0m
+[0m[[0m[31merror[0m] [0m[0m    case Failure(error) => print("Bad!\n");[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
